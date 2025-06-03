@@ -1,3 +1,2 @@
-# References
-
-* octocat 1 😈
+Conflict created
+Conflict attempted again
